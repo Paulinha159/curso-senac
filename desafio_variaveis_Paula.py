@@ -1,6 +1,6 @@
-Nome= str (input("Qual o seu nome?"))
-idade=int(input("Qual a Sua idade?"))
-linguagem= str(input("Qual a sua linguagem de programação favorita?")) 
+Nome = str (input("Qual o seu nome?"))
+idade = int(input("Qual a Sua idade?"))
+linguagem = str(input("Qual a sua linguagem de programação favorita?")) 
 print("Olá, meu nome é ",Nome," tenho", idade ," anos e estou aprendendo",linguagem ,"!")
 if idade < 18: 
     print("Você ainda é menor de idade, continue estudando e praticando!")
